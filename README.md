@@ -1,5 +1,5 @@
 # 💫 About Me:
-iI am an associate data scientest, looking for data related projects. I am looking to help with data analysis and machine learning models. I am currently learning SQL, Tablue and Machine Learning Engineering. 
+I am an associate data scientest, looking for data related projects. I am looking to help with data analysis and machine learning models. I am currently learning SQL, Tablue and Machine Learning Engineering. 
 
 
 ## 🌐 Socials:
